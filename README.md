@@ -1,3 +1,3 @@
-Aplikace pro předmět Tvorba www aplikací 
-Seznam shlánutých seriálů a určtých dílu.
+Aplikace pro předmět Tvorba www aplikací.
+Seznam shlédnutých seriálů a určtých dílů.
 Vytvořila Miroslava Brichtová 
